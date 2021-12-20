@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshots
 
-[Desktop Preview](solution-screenshots/desktop-preview.png)
-[Mobile Preview](solution-screenshots/mobile-preview.png)
+- [Desktop Preview](solution-screenshots/desktop-preview.png)
+- [Mobile Preview](solution-screenshots/mobile-preview.png)
 
 ### Links
 
