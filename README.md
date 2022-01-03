@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FrontEnd Mentor: My Solution](https://www.frontendmentor.io/solutions/responsive-flexbox-3column-preview-card-built-mobilefirst-D5rrq8r3M)
-- Live Site URL: [GitHub Page: 3 Column Preview Card](https://anoshaahmed.github.io/3-column-preview-card/)
+- Live Site URL: [GitHub Page: 3 Column Preview Card](https://anoshaahmed.github.io/fem-3-column-card/)
 
 ## My process
 
